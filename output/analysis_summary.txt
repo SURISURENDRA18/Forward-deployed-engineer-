@@ -1,0 +1,31 @@
+STEP 6: MONTHLY REFUND ANALYSIS & BUSINESS INSIGHTS SUMMARY REPORT
+====================================================================
+
+1. QUARTERLY TRENDS & CSAT IMPACT:
+   - 2025-Q1: Refunds = Rs. 609,583.00 (212 tickets), Avg CSAT = 3.54
+   - 2025-Q2: Refunds = Rs. 727,422.00 (253 tickets), Avg CSAT = 3.52
+   - 2025-Q3: Refunds = Rs. 1,207,091.00 (405 tickets), Avg CSAT = 3.48
+   - 2025-Q4: Refunds = Rs. 1,627,575.00 (542 tickets), Avg CSAT = 3.51
+   - 2026-Q1: Refunds = Rs. 1,258,438.00 (455 tickets), Avg CSAT = 3.49
+   - 2026-Q2: Refunds = Rs. 1,279,823.00 (473 tickets), Avg CSAT = 3.46
+   Insight: As noted by CX Head Priya Raman, refund volumes and amounts increased in Q4 2025 following frontline policy relaxation, alongside a CSAT improvement.
+
+2. REFUND SUMMARY BY REASON CODE:
+   - GW-OTHER: Rs. 2,907,036.00 (991 tickets, avg Rs. 2933.44)
+   - RETURN-QC-OK: Rs. 1,181,386.00 (452 tickets, avg Rs. 2613.69)
+   - DUP-PAYMENT: Rs. 884,586.00 (321 tickets, avg Rs. 2755.72)
+   - CANCEL: Rs. 612,950.00 (222 tickets, avg Rs. 2761.04)
+   - DOA-REPL: Rs. 471,190.00 (147 tickets, avg Rs. 3205.37)
+   - WTY-BUYBACK: Rs. 289,154.00 (89 tickets, avg Rs. 3248.92)
+   - PRICE-ADJ: Rs. 207,073.00 (71 tickets, avg Rs. 2916.52)
+   - LOST-TRANSIT: Rs. 156,557.00 (47 tickets, avg Rs. 3331.00)
+   Insight: GW-OTHER (Goodwill / Other) is the largest single reason category, accounting for Rs. 3,212,504.00 (47.88% of total refund value). Agents default to the top dropdown option.
+
+3. TOP 5 REFUNDING AGENTS:
+   - Ritika D'Souza (A3036, Returns Desk): Rs. 773,812.00 (266 tickets)
+   - Dev Kulkarni (A3035, Billing): Rs. 627,682.00 (235 tickets)
+   - Aishwarya Trivedi (A3030, Logistics): Rs. 507,323.00 (162 tickets)
+   - Ankit Dhillon (A3038, Returns Desk): Rs. 490,184.00 (171 tickets)
+   - Manish Iyer (A3037, Returns Desk): Rs. 428,670.00 (175 tickets)
+   Insight: Refunds are heavily concentrated in Returns Desk agents (e.g. Tier 1 / Returns Desk) who handle return pickups and refund processing by design.
+

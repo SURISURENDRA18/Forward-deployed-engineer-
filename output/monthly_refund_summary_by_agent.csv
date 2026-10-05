@@ -1,0 +1,589 @@
+year_month,agent_id,agent_name,team,tier,refund_ticket_count,total_refund_inr,avg_refund_inr
+2025-01,A3002,Steven Ansari,Chat Frontline,1,1,1799.00,1799.00
+2025-01,A3003,Komal Singh,Chat Frontline,1,1,2499.00,2499.00
+2025-01,A3005,Payal Bhatia,Chat Frontline,1,2,1490.00,745.00
+2025-01,A3006,Varun Bhatt,Chat Frontline,1,1,4249.00,4249.00
+2025-01,A3007,Abhishek Gupta,Chat Frontline,1,1,2499.00,2499.00
+2025-01,A3008,Meera Malhotra,Chat Frontline,1,1,6649.00,6649.00
+2025-01,A3009,Sukhwinder Singh,Chat Frontline,1,1,2124.00,2124.00
+2025-01,A3010,Tenzin Mathew,Chat Frontline,1,2,8173.00,4086.50
+2025-01,A3013,Rohit Nair,Chat Frontline,1,1,270.00,270.00
+2025-01,A3015,Sameer Jadhav,Chat Frontline,1,1,288.00,288.00
+2025-01,A3018,Krishna Bhatt,Email Frontline,1,3,1841.00,613.67
+2025-01,A3019,Kavya Agarwal,Email Frontline,1,1,4248.00,4248.00
+2025-01,A3020,Aadhya Singh,Email Frontline,1,1,5399.00,5399.00
+2025-01,A3022,Daniel Arora,Email Frontline,1,2,3398.00,1699.00
+2025-01,A3023,Ritika Gaikwad,Voice Frontline,1,1,8998.00,8998.00
+2025-01,A3028,Sameer Kapoor,Logistics,1,1,1599.00,1599.00
+2025-01,A3029,Rajat Mukherjee,Logistics,1,2,3217.00,1608.50
+2025-01,A3030,Aishwarya Trivedi,Logistics,1,1,3999.00,3999.00
+2025-01,A3031,Zaid Desai,Logistics,1,3,5597.00,1865.67
+2025-01,A3032,Sneha Bansal,Billing,1,7,13006.00,1858.00
+2025-01,A3033,Vikram Banerjee,Billing,1,1,6999.00,6999.00
+2025-01,A3034,Tanvi Rathore,Billing,1,4,6378.00,1594.50
+2025-01,A3035,Dev Kulkarni,Billing,1,2,4173.00,2086.50
+2025-01,A3036,Ritika D'Souza,Returns Desk,1,6,19240.00,3206.67
+2025-01,A3037,Manish Iyer,Returns Desk,1,7,14230.00,2032.86
+2025-01,A3038,Ankit Dhillon,Returns Desk,1,1,4999.00,4999.00
+2025-01,A3039,Reyansh Mishra,Escalations & Warranty,2,2,2787.00,1393.50
+2025-01,A3040,Thomas Jadhav,Escalations & Warranty,2,1,900.00,900.00
+2025-02,A3002,Steven Ansari,Chat Frontline,1,1,5849.00,5849.00
+2025-02,A3003,Komal Singh,Chat Frontline,1,1,4248.00,4248.00
+2025-02,A3006,Varun Bhatt,Chat Frontline,1,1,1439.00,1439.00
+2025-02,A3007,Abhishek Gupta,Chat Frontline,1,1,1999.00,1999.00
+2025-02,A3010,Tenzin Mathew,Chat Frontline,1,1,1999.00,1999.00
+2025-02,A3012,Lakshmi Srivastava,Chat Frontline,1,1,6999.00,6999.00
+2025-02,A3016,Thomas Kumar,Email Frontline,1,1,1709.00,1709.00
+2025-02,A3017,Kabir Singh,Email Frontline,1,1,4749.00,4749.00
+2025-02,A3018,Krishna Bhatt,Email Frontline,1,2,7708.00,3854.00
+2025-02,A3019,Kavya Agarwal,Email Frontline,1,1,237.00,237.00
+2025-02,A3022,Daniel Arora,Email Frontline,1,1,1299.00,1299.00
+2025-02,A3023,Ritika Gaikwad,Voice Frontline,1,1,900.00,900.00
+2025-02,A3025,Komal Malhotra,Voice Frontline,1,1,5599.00,5599.00
+2025-02,A3026,Aadhya Deshpande,Voice Frontline,1,2,4219.00,2109.50
+2025-02,A3027,Priya Agarwal,Logistics,1,1,2499.00,2499.00
+2025-02,A3028,Sameer Kapoor,Logistics,1,1,720.00,720.00
+2025-02,A3029,Rajat Mukherjee,Logistics,1,3,4973.00,1657.67
+2025-02,A3030,Aishwarya Trivedi,Logistics,1,8,35576.00,4447.00
+2025-02,A3031,Zaid Desai,Logistics,1,1,2499.00,2499.00
+2025-02,A3032,Sneha Bansal,Billing,1,4,10297.00,2574.25
+2025-02,A3033,Vikram Banerjee,Billing,1,3,12843.00,4281.00
+2025-02,A3034,Tanvi Rathore,Billing,1,5,7038.00,1407.60
+2025-02,A3035,Dev Kulkarni,Billing,1,4,16316.00,4079.00
+2025-02,A3036,Ritika D'Souza,Returns Desk,1,6,12994.00,2165.67
+2025-02,A3037,Manish Iyer,Returns Desk,1,3,4480.00,1493.33
+2025-02,A3038,Ankit Dhillon,Returns Desk,1,5,9633.00,1926.60
+2025-02,A3039,Reyansh Mishra,Escalations & Warranty,2,1,1899.00,1899.00
+2025-02,A3040,Thomas Jadhav,Escalations & Warranty,2,1,5599.00,5599.00
+2025-02,A3042,Swati Bhatia,Escalations & Warranty,2,1,1619.00,1619.00
+2025-03,A3001,Suresh Kaur,Chat Frontline,1,1,6649.00,6649.00
+2025-03,A3002,Steven Ansari,Chat Frontline,1,2,2699.00,1349.50
+2025-03,A3010,Tenzin Mathew,Chat Frontline,1,1,1040.00,1040.00
+2025-03,A3011,Rohit Gill,Chat Frontline,1,1,375.00,375.00
+2025-03,A3012,Lakshmi Srivastava,Chat Frontline,1,1,2500.00,2500.00
+2025-03,A3013,Rohit Nair,Chat Frontline,1,3,17247.00,5749.00
+2025-03,A3014,Anjali D'Souza,Chat Frontline,1,2,3848.00,1924.00
+2025-03,A3015,Sameer Jadhav,Chat Frontline,1,1,6299.00,6299.00
+2025-03,A3016,Thomas Kumar,Email Frontline,1,1,6299.00,6299.00
+2025-03,A3017,Kabir Singh,Email Frontline,1,3,6472.00,2157.33
+2025-03,A3018,Krishna Bhatt,Email Frontline,1,2,12848.00,6424.00
+2025-03,A3019,Kavya Agarwal,Email Frontline,1,2,2549.00,1274.50
+2025-03,A3020,Aadhya Singh,Email Frontline,1,1,2499.00,2499.00
+2025-03,A3021,Meera Mathew,Email Frontline,1,1,1799.00,1799.00
+2025-03,A3024,Amit Deshpande,Voice Frontline,1,1,1529.00,1529.00
+2025-03,A3026,Aadhya Deshpande,Voice Frontline,1,3,12597.00,4199.00
+2025-03,A3027,Priya Agarwal,Logistics,1,2,5618.00,2809.00
+2025-03,A3028,Sameer Kapoor,Logistics,1,1,2374.00,2374.00
+2025-03,A3030,Aishwarya Trivedi,Logistics,1,3,17096.00,5698.67
+2025-03,A3031,Zaid Desai,Logistics,1,1,6999.00,6999.00
+2025-03,A3032,Sneha Bansal,Billing,1,4,16222.00,4055.50
+2025-03,A3033,Vikram Banerjee,Billing,1,5,11565.00,2313.00
+2025-03,A3034,Tanvi Rathore,Billing,1,10,31221.00,3122.10
+2025-03,A3035,Dev Kulkarni,Billing,1,10,31853.00,3185.30
+2025-03,A3036,Ritika D'Souza,Returns Desk,1,16,44319.00,2769.94
+2025-03,A3037,Manish Iyer,Returns Desk,1,7,16911.00,2415.86
+2025-03,A3038,Ankit Dhillon,Returns Desk,1,6,19170.00,3195.00
+2025-04,A3001,Suresh Kaur,Chat Frontline,1,2,2199.00,1099.50
+2025-04,A3002,Steven Ansari,Chat Frontline,1,1,6499.00,6499.00
+2025-04,A3005,Payal Bhatia,Chat Frontline,1,1,1799.00,1799.00
+2025-04,A3006,Varun Bhatt,Chat Frontline,1,1,475.00,475.00
+2025-04,A3007,Abhishek Gupta,Chat Frontline,1,1,4249.00,4249.00
+2025-04,A3009,Sukhwinder Singh,Chat Frontline,1,1,1999.00,1999.00
+2025-04,A3011,Rohit Gill,Chat Frontline,1,1,2374.00,2374.00
+2025-04,A3013,Rohit Nair,Chat Frontline,1,1,1799.00,1799.00
+2025-04,A3014,Anjali D'Souza,Chat Frontline,1,1,6499.00,6499.00
+2025-04,A3016,Thomas Kumar,Email Frontline,1,1,3598.00,3598.00
+2025-04,A3017,Kabir Singh,Email Frontline,1,2,7898.00,3949.00
+2025-04,A3018,Krishna Bhatt,Email Frontline,1,3,4288.00,1429.33
+2025-04,A3020,Aadhya Singh,Email Frontline,1,3,8748.00,2916.00
+2025-04,A3022,Daniel Arora,Email Frontline,1,1,2249.00,2249.00
+2025-04,A3026,Aadhya Deshpande,Voice Frontline,1,3,16446.00,5482.00
+2025-04,A3028,Sameer Kapoor,Logistics,1,4,8210.00,2052.50
+2025-04,A3029,Rajat Mukherjee,Logistics,1,1,5949.00,5949.00
+2025-04,A3030,Aishwarya Trivedi,Logistics,1,4,13937.00,3484.25
+2025-04,A3031,Zaid Desai,Logistics,1,1,800.00,800.00
+2025-04,A3032,Sneha Bansal,Billing,1,1,144.00,144.00
+2025-04,A3033,Vikram Banerjee,Billing,1,8,23432.00,2929.00
+2025-04,A3034,Tanvi Rathore,Billing,1,4,17375.00,4343.75
+2025-04,A3035,Dev Kulkarni,Billing,1,7,28544.00,4077.71
+2025-04,A3036,Ritika D'Souza,Returns Desk,1,11,29356.00,2668.73
+2025-04,A3037,Manish Iyer,Returns Desk,1,5,15442.00,3088.40
+2025-04,A3038,Ankit Dhillon,Returns Desk,1,8,25058.00,3132.25
+2025-04,A3039,Reyansh Mishra,Escalations & Warranty,2,1,5524.00,5524.00
+2025-04,A3044,Arjun Kumar,Escalations & Warranty,2,1,5199.00,5199.00
+2025-05,A3001,Suresh Kaur,Chat Frontline,1,1,1439.00,1439.00
+2025-05,A3005,Payal Bhatia,Chat Frontline,1,1,1299.00,1299.00
+2025-05,A3006,Varun Bhatt,Chat Frontline,1,1,2499.00,2499.00
+2025-05,A3007,Abhishek Gupta,Chat Frontline,1,1,375.00,375.00
+2025-05,A3008,Meera Malhotra,Chat Frontline,1,2,11373.00,5686.50
+2025-05,A3011,Rohit Gill,Chat Frontline,1,1,1170.00,1170.00
+2025-05,A3012,Lakshmi Srivastava,Chat Frontline,1,2,3528.00,1764.00
+2025-05,A3014,Anjali D'Souza,Chat Frontline,1,2,4909.00,2454.50
+2025-05,A3015,Sameer Jadhav,Chat Frontline,1,1,750.00,750.00
+2025-05,A3017,Kabir Singh,Email Frontline,1,2,3698.00,1849.00
+2025-05,A3018,Krishna Bhatt,Email Frontline,1,1,5699.00,5699.00
+2025-05,A3020,Aadhya Singh,Email Frontline,1,1,630.00,630.00
+2025-05,A3022,Daniel Arora,Email Frontline,1,1,3087.00,3087.00
+2025-05,A3023,Ritika Gaikwad,Voice Frontline,1,2,5323.00,2661.50
+2025-05,A3026,Aadhya Deshpande,Voice Frontline,1,6,11702.00,1950.33
+2025-05,A3027,Priya Agarwal,Logistics,1,1,5399.00,5399.00
+2025-05,A3028,Sameer Kapoor,Logistics,1,3,8518.00,2839.33
+2025-05,A3029,Rajat Mukherjee,Logistics,1,1,120.00,120.00
+2025-05,A3030,Aishwarya Trivedi,Logistics,1,7,20992.00,2998.86
+2025-05,A3031,Zaid Desai,Logistics,1,1,780.00,780.00
+2025-05,A3032,Sneha Bansal,Billing,1,5,11397.00,2279.40
+2025-05,A3033,Vikram Banerjee,Billing,1,3,2653.00,884.33
+2025-05,A3034,Tanvi Rathore,Billing,1,4,15151.00,3787.75
+2025-05,A3035,Dev Kulkarni,Billing,1,12,37673.00,3139.42
+2025-05,A3036,Ritika D'Souza,Returns Desk,1,9,26226.00,2914.00
+2025-05,A3037,Manish Iyer,Returns Desk,1,9,20677.00,2297.44
+2025-05,A3038,Ankit Dhillon,Returns Desk,1,4,7198.00,1799.50
+2025-05,A3039,Reyansh Mishra,Escalations & Warranty,2,1,1899.00,1899.00
+2025-05,A3043,Nikhil Gupta,Escalations & Warranty,2,1,1300.00,1300.00
+2025-06,A3001,Suresh Kaur,Chat Frontline,1,2,13148.00,6574.00
+2025-06,A3002,Steven Ansari,Chat Frontline,1,2,6791.00,3395.50
+2025-06,A3003,Komal Singh,Chat Frontline,1,1,1104.00,1104.00
+2025-06,A3004,Geeta Dutta,Chat Frontline,1,1,5524.00,5524.00
+2025-06,A3005,Payal Bhatia,Chat Frontline,1,1,3238.00,3238.00
+2025-06,A3006,Varun Bhatt,Chat Frontline,1,1,1274.00,1274.00
+2025-06,A3009,Sukhwinder Singh,Chat Frontline,1,1,1499.00,1499.00
+2025-06,A3010,Tenzin Mathew,Chat Frontline,1,1,2499.00,2499.00
+2025-06,A3011,Rohit Gill,Chat Frontline,1,2,3998.00,1999.00
+2025-06,A3012,Lakshmi Srivastava,Chat Frontline,1,3,5597.00,1865.67
+2025-06,A3014,Anjali D'Souza,Chat Frontline,1,1,2974.00,2974.00
+2025-06,A3017,Kabir Singh,Email Frontline,1,1,6999.00,6999.00
+2025-06,A3018,Krishna Bhatt,Email Frontline,1,3,6997.00,2332.33
+2025-06,A3020,Aadhya Singh,Email Frontline,1,3,9810.00,3270.00
+2025-06,A3022,Daniel Arora,Email Frontline,1,1,1799.00,1799.00
+2025-06,A3023,Ritika Gaikwad,Voice Frontline,1,1,1300.00,1300.00
+2025-06,A3026,Aadhya Deshpande,Voice Frontline,1,1,200.00,200.00
+2025-06,A3027,Priya Agarwal,Logistics,1,4,9923.00,2480.75
+2025-06,A3028,Sameer Kapoor,Logistics,1,4,13784.00,3446.00
+2025-06,A3029,Rajat Mukherjee,Logistics,1,1,2124.00,2124.00
+2025-06,A3030,Aishwarya Trivedi,Logistics,1,2,12197.00,6098.50
+2025-06,A3031,Zaid Desai,Logistics,1,2,3673.00,1836.50
+2025-06,A3032,Sneha Bansal,Billing,1,5,17870.00,3574.00
+2025-06,A3033,Vikram Banerjee,Billing,1,5,17976.00,3595.20
+2025-06,A3034,Tanvi Rathore,Billing,1,3,5797.00,1932.33
+2025-06,A3035,Dev Kulkarni,Billing,1,8,17364.00,2170.50
+2025-06,A3036,Ritika D'Souza,Returns Desk,1,11,39944.00,3631.27
+2025-06,A3037,Manish Iyer,Returns Desk,1,6,9501.00,1583.50
+2025-06,A3038,Ankit Dhillon,Returns Desk,1,8,27168.00,3396.00
+2025-06,A3040,Thomas Jadhav,Escalations & Warranty,2,1,1699.00,1699.00
+2025-06,A3044,Arjun Kumar,Escalations & Warranty,2,2,6098.00,3049.00
+2025-07,A3001,Suresh Kaur,Chat Frontline,1,2,5194.00,2597.00
+2025-07,A3002,Steven Ansari,Chat Frontline,1,2,2486.00,1243.00
+2025-07,A3004,Geeta Dutta,Chat Frontline,1,2,7218.00,3609.00
+2025-07,A3005,Payal Bhatia,Chat Frontline,1,1,2124.00,2124.00
+2025-07,A3009,Sukhwinder Singh,Chat Frontline,1,3,6298.00,2099.33
+2025-07,A3010,Tenzin Mathew,Chat Frontline,1,4,13452.00,3363.00
+2025-07,A3012,Lakshmi Srivastava,Chat Frontline,1,1,1999.00,1999.00
+2025-07,A3013,Rohit Nair,Chat Frontline,1,4,15150.00,3787.50
+2025-07,A3014,Anjali D'Souza,Chat Frontline,1,3,5443.00,1814.33
+2025-07,A3015,Sameer Jadhav,Chat Frontline,1,2,5299.00,2649.50
+2025-07,A3016,Thomas Kumar,Email Frontline,1,2,6704.00,3352.00
+2025-07,A3017,Kabir Singh,Email Frontline,1,1,2374.00,2374.00
+2025-07,A3018,Krishna Bhatt,Email Frontline,1,2,4149.00,2074.50
+2025-07,A3020,Aadhya Singh,Email Frontline,1,1,4499.00,4499.00
+2025-07,A3021,Meera Mathew,Email Frontline,1,1,2124.00,2124.00
+2025-07,A3022,Daniel Arora,Email Frontline,1,1,3499.00,3499.00
+2025-07,A3024,Amit Deshpande,Voice Frontline,1,1,2799.00,2799.00
+2025-07,A3026,Aadhya Deshpande,Voice Frontline,1,4,6472.00,1618.00
+2025-07,A3027,Priya Agarwal,Logistics,1,4,17656.00,4414.00
+2025-07,A3028,Sameer Kapoor,Logistics,1,3,13747.00,4582.33
+2025-07,A3029,Rajat Mukherjee,Logistics,1,4,23620.00,5905.00
+2025-07,A3030,Aishwarya Trivedi,Logistics,1,12,38573.00,3214.42
+2025-07,A3031,Zaid Desai,Logistics,1,3,6497.00,2165.67
+2025-07,A3032,Sneha Bansal,Billing,1,8,18020.00,2252.50
+2025-07,A3033,Vikram Banerjee,Billing,1,5,11056.00,2211.20
+2025-07,A3034,Tanvi Rathore,Billing,1,5,22011.00,4402.20
+2025-07,A3035,Dev Kulkarni,Billing,1,14,35935.00,2566.79
+2025-07,A3036,Ritika D'Souza,Returns Desk,1,9,25591.00,2843.44
+2025-07,A3037,Manish Iyer,Returns Desk,1,5,18171.00,3634.20
+2025-07,A3038,Ankit Dhillon,Returns Desk,1,6,7305.00,1217.50
+2025-07,A3039,Reyansh Mishra,Escalations & Warranty,2,1,2499.00,2499.00
+2025-07,A3041,Mohammed Mehta,Escalations & Warranty,2,1,5849.00,5849.00
+2025-07,A3044,Arjun Kumar,Escalations & Warranty,2,2,13173.00,6586.50
+2025-08,A3001,Suresh Kaur,Chat Frontline,1,1,6299.00,6299.00
+2025-08,A3004,Geeta Dutta,Chat Frontline,1,1,2878.00,2878.00
+2025-08,A3005,Payal Bhatia,Chat Frontline,1,2,4309.00,2154.50
+2025-08,A3006,Varun Bhatt,Chat Frontline,1,2,4173.00,2086.50
+2025-08,A3007,Abhishek Gupta,Chat Frontline,1,4,13936.00,3484.00
+2025-08,A3008,Meera Malhotra,Chat Frontline,1,1,1799.00,1799.00
+2025-08,A3010,Tenzin Mathew,Chat Frontline,1,1,3149.00,3149.00
+2025-08,A3011,Rohit Gill,Chat Frontline,1,1,6499.00,6499.00
+2025-08,A3012,Lakshmi Srivastava,Chat Frontline,1,1,1400.00,1400.00
+2025-08,A3014,Anjali D'Souza,Chat Frontline,1,3,10097.00,3365.67
+2025-08,A3017,Kabir Singh,Email Frontline,1,3,11617.00,3872.33
+2025-08,A3018,Krishna Bhatt,Email Frontline,1,4,7104.00,1776.00
+2025-08,A3022,Daniel Arora,Email Frontline,1,2,5323.00,2661.50
+2025-08,A3025,Komal Malhotra,Voice Frontline,1,2,5473.00,2736.50
+2025-08,A3026,Aadhya Deshpande,Voice Frontline,1,2,5998.00,2999.00
+2025-08,A3027,Priya Agarwal,Logistics,1,1,3499.00,3499.00
+2025-08,A3028,Sameer Kapoor,Logistics,1,2,5298.00,2649.00
+2025-08,A3029,Rajat Mukherjee,Logistics,1,3,12097.00,4032.33
+2025-08,A3030,Aishwarya Trivedi,Logistics,1,11,42230.00,3839.09
+2025-08,A3031,Zaid Desai,Logistics,1,2,5616.00,2808.00
+2025-08,A3032,Sneha Bansal,Billing,1,5,6179.00,1235.80
+2025-08,A3033,Vikram Banerjee,Billing,1,7,23519.00,3359.86
+2025-08,A3034,Tanvi Rathore,Billing,1,6,10203.00,1700.50
+2025-08,A3035,Dev Kulkarni,Billing,1,12,26817.00,2234.75
+2025-08,A3036,Ritika D'Souza,Returns Desk,1,16,43299.00,2706.19
+2025-08,A3037,Manish Iyer,Returns Desk,1,10,30572.00,3057.20
+2025-08,A3038,Ankit Dhillon,Returns Desk,1,13,39245.00,3018.85
+2025-08,A3039,Reyansh Mishra,Escalations & Warranty,2,3,15197.00,5065.67
+2025-08,A3040,Thomas Jadhav,Escalations & Warranty,2,1,1999.00,1999.00
+2025-08,A3041,Mohammed Mehta,Escalations & Warranty,2,1,2499.00,2499.00
+2025-08,A3042,Swati Bhatia,Escalations & Warranty,2,1,5999.00,5999.00
+2025-08,A3044,Arjun Kumar,Escalations & Warranty,2,1,3499.00,3499.00
+2025-09,A3002,Steven Ansari,Chat Frontline,1,1,1234.00,1234.00
+2025-09,A3003,Komal Singh,Chat Frontline,1,2,7973.00,3986.50
+2025-09,A3004,Geeta Dutta,Chat Frontline,1,2,1601.00,800.50
+2025-09,A3005,Payal Bhatia,Chat Frontline,1,3,7183.00,2394.33
+2025-09,A3006,Varun Bhatt,Chat Frontline,1,3,9197.00,3065.67
+2025-09,A3007,Abhishek Gupta,Chat Frontline,1,1,2799.00,2799.00
+2025-09,A3008,Meera Malhotra,Chat Frontline,1,2,3466.00,1733.00
+2025-09,A3009,Sukhwinder Singh,Chat Frontline,1,1,1234.00,1234.00
+2025-09,A3010,Tenzin Mathew,Chat Frontline,1,2,3293.00,1646.50
+2025-09,A3013,Rohit Nair,Chat Frontline,1,3,12865.00,4288.33
+2025-09,A3014,Anjali D'Souza,Chat Frontline,1,1,2974.00,2974.00
+2025-09,A3015,Sameer Jadhav,Chat Frontline,1,5,13652.00,2730.40
+2025-09,A3016,Thomas Kumar,Email Frontline,1,2,3598.00,1799.00
+2025-09,A3017,Kabir Singh,Email Frontline,1,1,2799.00,2799.00
+2025-09,A3018,Krishna Bhatt,Email Frontline,1,9,28262.00,3140.22
+2025-09,A3020,Aadhya Singh,Email Frontline,1,1,1999.00,1999.00
+2025-09,A3021,Meera Mathew,Email Frontline,1,1,280.00,280.00
+2025-09,A3022,Daniel Arora,Email Frontline,1,1,1039.00,1039.00
+2025-09,A3024,Amit Deshpande,Voice Frontline,1,2,11898.00,5949.00
+2025-09,A3025,Komal Malhotra,Voice Frontline,1,2,4503.00,2251.50
+2025-09,A3026,Aadhya Deshpande,Voice Frontline,1,5,14051.00,2810.20
+2025-09,A3027,Priya Agarwal,Logistics,1,3,10772.00,3590.67
+2025-09,A3028,Sameer Kapoor,Logistics,1,6,20469.00,3411.50
+2025-09,A3029,Rajat Mukherjee,Logistics,1,2,12797.00,6398.50
+2025-09,A3030,Aishwarya Trivedi,Logistics,1,8,23394.00,2924.25
+2025-09,A3031,Zaid Desai,Logistics,1,4,12546.00,3136.50
+2025-09,A3032,Sneha Bansal,Billing,1,8,16945.00,2118.12
+2025-09,A3033,Vikram Banerjee,Billing,1,6,13486.00,2247.67
+2025-09,A3034,Tanvi Rathore,Billing,1,9,18356.00,2039.56
+2025-09,A3035,Dev Kulkarni,Billing,1,16,51543.00,3221.44
+2025-09,A3036,Ritika D'Souza,Returns Desk,1,14,46747.00,3339.07
+2025-09,A3037,Manish Iyer,Returns Desk,1,13,32436.00,2495.08
+2025-09,A3038,Ankit Dhillon,Returns Desk,1,14,52562.00,3754.43
+2025-09,A3039,Reyansh Mishra,Escalations & Warranty,2,6,28145.00,4690.83
+2025-09,A3040,Thomas Jadhav,Escalations & Warranty,2,1,1187.00,1187.00
+2025-09,A3043,Nikhil Gupta,Escalations & Warranty,2,1,4999.00,4999.00
+2025-10,A3001,Suresh Kaur,Chat Frontline,1,3,12097.00,4032.33
+2025-10,A3002,Steven Ansari,Chat Frontline,1,3,11799.00,3933.00
+2025-10,A3003,Komal Singh,Chat Frontline,1,1,4499.00,4499.00
+2025-10,A3004,Geeta Dutta,Chat Frontline,1,2,7323.00,3661.50
+2025-10,A3005,Payal Bhatia,Chat Frontline,1,4,14820.00,3705.00
+2025-10,A3006,Varun Bhatt,Chat Frontline,1,2,9797.00,4898.50
+2025-10,A3008,Meera Malhotra,Chat Frontline,1,1,2499.00,2499.00
+2025-10,A3009,Sukhwinder Singh,Chat Frontline,1,5,9822.00,1964.40
+2025-10,A3010,Tenzin Mathew,Chat Frontline,1,3,13337.00,4445.67
+2025-10,A3011,Rohit Gill,Chat Frontline,1,4,13997.00,3499.25
+2025-10,A3012,Lakshmi Srivastava,Chat Frontline,1,3,10772.00,3590.67
+2025-10,A3014,Anjali D'Souza,Chat Frontline,1,1,1999.00,1999.00
+2025-10,A3016,Thomas Kumar,Email Frontline,1,3,9723.00,3241.00
+2025-10,A3017,Kabir Singh,Email Frontline,1,5,15120.00,3024.00
+2025-10,A3018,Krishna Bhatt,Email Frontline,1,8,14117.00,1764.62
+2025-10,A3020,Aadhya Singh,Email Frontline,1,1,5399.00,5399.00
+2025-10,A3021,Meera Mathew,Email Frontline,1,2,6123.00,3061.50
+2025-10,A3022,Daniel Arora,Email Frontline,1,1,5999.00,5999.00
+2025-10,A3023,Ritika Gaikwad,Voice Frontline,1,2,12397.00,6198.50
+2025-10,A3026,Aadhya Deshpande,Voice Frontline,1,4,22015.00,5503.75
+2025-10,A3027,Priya Agarwal,Logistics,1,1,3499.00,3499.00
+2025-10,A3028,Sameer Kapoor,Logistics,1,3,11623.00,3874.33
+2025-10,A3029,Rajat Mukherjee,Logistics,1,3,7672.00,2557.33
+2025-10,A3030,Aishwarya Trivedi,Logistics,1,12,27521.00,2293.42
+2025-10,A3031,Zaid Desai,Logistics,1,2,6473.00,3236.50
+2025-10,A3032,Sneha Bansal,Billing,1,15,38519.00,2567.93
+2025-10,A3033,Vikram Banerjee,Billing,1,9,41941.00,4660.11
+2025-10,A3034,Tanvi Rathore,Billing,1,8,11618.00,1452.25
+2025-10,A3035,Dev Kulkarni,Billing,1,28,68698.00,2453.50
+2025-10,A3036,Ritika D'Souza,Returns Desk,1,22,72977.00,3317.14
+2025-10,A3037,Manish Iyer,Returns Desk,1,6,16653.00,2775.50
+2025-10,A3038,Ankit Dhillon,Returns Desk,1,12,36394.00,3032.83
+2025-10,A3039,Reyansh Mishra,Escalations & Warranty,2,5,24895.00,4979.00
+2025-10,A3042,Swati Bhatia,Escalations & Warranty,2,1,3500.00,3500.00
+2025-11,A3002,Steven Ansari,Chat Frontline,1,1,4749.00,4749.00
+2025-11,A3003,Komal Singh,Chat Frontline,1,3,10777.00,3592.33
+2025-11,A3005,Payal Bhatia,Chat Frontline,1,2,7287.00,3643.50
+2025-11,A3006,Varun Bhatt,Chat Frontline,1,1,5999.00,5999.00
+2025-11,A3007,Abhishek Gupta,Chat Frontline,1,1,6499.00,6499.00
+2025-11,A3010,Tenzin Mathew,Chat Frontline,1,2,11148.00,5574.00
+2025-11,A3011,Rohit Gill,Chat Frontline,1,3,14882.00,4960.67
+2025-11,A3012,Lakshmi Srivastava,Chat Frontline,1,3,8272.00,2757.33
+2025-11,A3013,Rohit Nair,Chat Frontline,1,3,7357.00,2452.33
+2025-11,A3014,Anjali D'Souza,Chat Frontline,1,1,2499.00,2499.00
+2025-11,A3015,Sameer Jadhav,Chat Frontline,1,3,8723.00,2907.67
+2025-11,A3016,Thomas Kumar,Email Frontline,1,2,20996.00,10498.00
+2025-11,A3017,Kabir Singh,Email Frontline,1,1,2799.00,2799.00
+2025-11,A3018,Krishna Bhatt,Email Frontline,1,8,16235.00,2029.38
+2025-11,A3019,Kavya Agarwal,Email Frontline,1,1,3149.00,3149.00
+2025-11,A3020,Aadhya Singh,Email Frontline,1,1,1000.00,1000.00
+2025-11,A3021,Meera Mathew,Email Frontline,1,1,2499.00,2499.00
+2025-11,A3024,Amit Deshpande,Voice Frontline,1,2,4024.00,2012.00
+2025-11,A3025,Komal Malhotra,Voice Frontline,1,1,212.00,212.00
+2025-11,A3026,Aadhya Deshpande,Voice Frontline,1,3,9268.00,3089.33
+2025-11,A3027,Priya Agarwal,Logistics,1,3,21671.00,7223.67
+2025-11,A3028,Sameer Kapoor,Logistics,1,3,4113.00,1371.00
+2025-11,A3029,Rajat Mukherjee,Logistics,1,5,13322.00,2664.40
+2025-11,A3030,Aishwarya Trivedi,Logistics,1,22,69740.00,3170.00
+2025-11,A3031,Zaid Desai,Logistics,1,2,3563.00,1781.50
+2025-11,A3032,Sneha Bansal,Billing,1,8,35342.00,4417.75
+2025-11,A3033,Vikram Banerjee,Billing,1,13,39015.00,3001.15
+2025-11,A3034,Tanvi Rathore,Billing,1,9,22555.00,2506.11
+2025-11,A3035,Dev Kulkarni,Billing,1,17,42935.00,2525.59
+2025-11,A3036,Ritika D'Souza,Returns Desk,1,24,81160.00,3381.67
+2025-11,A3037,Manish Iyer,Returns Desk,1,16,26173.00,1635.81
+2025-11,A3038,Ankit Dhillon,Returns Desk,1,12,36073.00,3006.08
+2025-11,A3039,Reyansh Mishra,Escalations & Warranty,2,4,15171.00,3792.75
+2025-11,A3041,Mohammed Mehta,Escalations & Warranty,2,1,1439.00,1439.00
+2025-11,A3042,Swati Bhatia,Escalations & Warranty,2,3,9164.00,3054.67
+2025-11,A3044,Arjun Kumar,Escalations & Warranty,2,1,6174.00,6174.00
+2025-12,A3001,Suresh Kaur,Chat Frontline,1,1,630.00,630.00
+2025-12,A3002,Steven Ansari,Chat Frontline,1,5,29570.00,5914.00
+2025-12,A3003,Komal Singh,Chat Frontline,1,1,6299.00,6299.00
+2025-12,A3005,Payal Bhatia,Chat Frontline,1,1,560.00,560.00
+2025-12,A3006,Varun Bhatt,Chat Frontline,1,3,4394.00,1464.67
+2025-12,A3007,Abhishek Gupta,Chat Frontline,1,3,13322.00,4440.67
+2025-12,A3008,Meera Malhotra,Chat Frontline,1,1,6499.00,6499.00
+2025-12,A3009,Sukhwinder Singh,Chat Frontline,1,2,4508.00,2254.00
+2025-12,A3010,Tenzin Mathew,Chat Frontline,1,2,3299.00,1649.50
+2025-12,A3012,Lakshmi Srivastava,Chat Frontline,1,1,1999.00,1999.00
+2025-12,A3013,Rohit Nair,Chat Frontline,1,2,5998.00,2999.00
+2025-12,A3014,Anjali D'Souza,Chat Frontline,1,1,2799.00,2799.00
+2025-12,A3015,Sameer Jadhav,Chat Frontline,1,5,14856.00,2971.20
+2025-12,A3016,Thomas Kumar,Email Frontline,1,1,525.00,525.00
+2025-12,A3017,Kabir Singh,Email Frontline,1,1,472.00,472.00
+2025-12,A3018,Krishna Bhatt,Email Frontline,1,6,23375.00,3895.83
+2025-12,A3019,Kavya Agarwal,Email Frontline,1,3,4024.00,1341.33
+2025-12,A3021,Meera Mathew,Email Frontline,1,3,15622.00,5207.33
+2025-12,A3022,Daniel Arora,Email Frontline,1,3,7115.00,2371.67
+2025-12,A3024,Amit Deshpande,Voice Frontline,1,1,1105.00,1105.00
+2025-12,A3025,Komal Malhotra,Voice Frontline,1,1,2499.00,2499.00
+2025-12,A3026,Aadhya Deshpande,Voice Frontline,1,9,23690.00,2632.22
+2025-12,A3027,Priya Agarwal,Logistics,1,3,6823.00,2274.33
+2025-12,A3028,Sameer Kapoor,Logistics,1,5,19521.00,3904.20
+2025-12,A3029,Rajat Mukherjee,Logistics,1,3,10062.00,3354.00
+2025-12,A3030,Aishwarya Trivedi,Logistics,1,8,14459.00,1807.38
+2025-12,A3031,Zaid Desai,Logistics,1,6,14090.00,2348.33
+2025-12,A3032,Sneha Bansal,Billing,1,9,27839.00,3093.22
+2025-12,A3033,Vikram Banerjee,Billing,1,10,20452.00,2045.20
+2025-12,A3034,Tanvi Rathore,Billing,1,5,13980.00,2796.00
+2025-12,A3035,Dev Kulkarni,Billing,1,19,57010.00,3000.53
+2025-12,A3036,Ritika D'Souza,Returns Desk,1,18,47096.00,2616.44
+2025-12,A3037,Manish Iyer,Returns Desk,1,13,23248.00,1788.31
+2025-12,A3038,Ankit Dhillon,Returns Desk,1,14,44216.00,3158.29
+2025-12,A3039,Reyansh Mishra,Escalations & Warranty,2,1,1999.00,1999.00
+2025-12,A3043,Nikhil Gupta,Escalations & Warranty,2,1,1999.00,1999.00
+2026-01,A3001,Suresh Kaur,Chat Frontline,1,1,5524.00,5524.00
+2026-01,A3002,Steven Ansari,Chat Frontline,1,1,5199.00,5199.00
+2026-01,A3003,Komal Singh,Chat Frontline,1,4,9721.00,2430.25
+2026-01,A3004,Geeta Dutta,Chat Frontline,1,3,10497.00,3499.00
+2026-01,A3005,Payal Bhatia,Chat Frontline,1,1,1999.00,1999.00
+2026-01,A3006,Varun Bhatt,Chat Frontline,1,1,3499.00,3499.00
+2026-01,A3007,Abhishek Gupta,Chat Frontline,1,3,10147.00,3382.33
+2026-01,A3008,Meera Malhotra,Chat Frontline,1,4,7198.00,1799.50
+2026-01,A3009,Sukhwinder Singh,Chat Frontline,1,4,10722.00,2680.50
+2026-01,A3010,Tenzin Mathew,Chat Frontline,1,1,700.00,700.00
+2026-01,A3011,Rohit Gill,Chat Frontline,1,3,13297.00,4432.33
+2026-01,A3012,Lakshmi Srivastava,Chat Frontline,1,2,3669.00,1834.50
+2026-01,A3013,Rohit Nair,Chat Frontline,1,4,11665.00,2916.25
+2026-01,A3014,Anjali D'Souza,Chat Frontline,1,1,1299.00,1299.00
+2026-01,A3015,Sameer Jadhav,Chat Frontline,1,1,2974.00,2974.00
+2026-01,A3016,Thomas Kumar,Email Frontline,1,3,4029.00,1343.00
+2026-01,A3017,Kabir Singh,Email Frontline,1,2,7398.00,3699.00
+2026-01,A3018,Krishna Bhatt,Email Frontline,1,9,19991.00,2221.22
+2026-01,A3021,Meera Mathew,Email Frontline,1,1,1699.00,1699.00
+2026-01,A3024,Amit Deshpande,Voice Frontline,1,1,3499.00,3499.00
+2026-01,A3026,Aadhya Deshpande,Voice Frontline,1,5,17596.00,3519.20
+2026-01,A3027,Priya Agarwal,Logistics,1,4,8972.00,2243.00
+2026-01,A3028,Sameer Kapoor,Logistics,1,4,12970.00,3242.50
+2026-01,A3029,Rajat Mukherjee,Logistics,1,3,17096.00,5698.67
+2026-01,A3030,Aishwarya Trivedi,Logistics,1,6,18850.00,3141.67
+2026-01,A3031,Zaid Desai,Logistics,1,2,7998.00,3999.00
+2026-01,A3032,Sneha Bansal,Billing,1,8,41567.00,5195.88
+2026-01,A3033,Vikram Banerjee,Billing,1,8,13655.00,1706.88
+2026-01,A3034,Tanvi Rathore,Billing,1,9,23439.00,2604.33
+2026-01,A3035,Dev Kulkarni,Billing,1,14,33933.00,2423.79
+2026-01,A3036,Ritika D'Souza,Returns Desk,1,17,60606.00,3565.06
+2026-01,A3037,Manish Iyer,Returns Desk,1,7,16849.00,2407.00
+2026-01,A3038,Ankit Dhillon,Returns Desk,1,11,29485.00,2680.45
+2026-01,A3039,Reyansh Mishra,Escalations & Warranty,2,2,9648.00,4824.00
+2026-01,A3042,Swati Bhatia,Escalations & Warranty,2,2,1439.00,719.50
+2026-01,A3043,Nikhil Gupta,Escalations & Warranty,2,1,1039.00,1039.00
+2026-02,A3002,Steven Ansari,Chat Frontline,1,1,3499.00,3499.00
+2026-02,A3003,Komal Singh,Chat Frontline,1,2,3919.00,1959.50
+2026-02,A3005,Payal Bhatia,Chat Frontline,1,3,5463.00,1821.00
+2026-02,A3007,Abhishek Gupta,Chat Frontline,1,4,9779.00,2444.75
+2026-02,A3009,Sukhwinder Singh,Chat Frontline,1,1,585.00,585.00
+2026-02,A3010,Tenzin Mathew,Chat Frontline,1,3,6893.00,2297.67
+2026-02,A3014,Anjali D'Souza,Chat Frontline,1,1,3499.00,3499.00
+2026-02,A3016,Thomas Kumar,Email Frontline,1,2,4768.00,2384.00
+2026-02,A3017,Kabir Singh,Email Frontline,1,2,2774.00,1387.00
+2026-02,A3018,Krishna Bhatt,Email Frontline,1,6,22919.00,3819.83
+2026-02,A3020,Aadhya Singh,Email Frontline,1,1,2799.00,2799.00
+2026-02,A3021,Meera Mathew,Email Frontline,1,2,9998.00,4999.00
+2026-02,A3022,Daniel Arora,Email Frontline,1,1,319.00,319.00
+2026-02,A3023,Ritika Gaikwad,Voice Frontline,1,1,3999.00,3999.00
+2026-02,A3026,Aadhya Deshpande,Voice Frontline,1,4,7529.00,1882.25
+2026-02,A3027,Priya Agarwal,Logistics,1,4,19320.00,4830.00
+2026-02,A3028,Sameer Kapoor,Logistics,1,4,7542.00,1885.50
+2026-02,A3029,Rajat Mukherjee,Logistics,1,4,4223.00,1055.75
+2026-02,A3030,Aishwarya Trivedi,Logistics,1,6,15220.00,2536.67
+2026-02,A3031,Zaid Desai,Logistics,1,2,5298.00,2649.00
+2026-02,A3032,Sneha Bansal,Billing,1,10,22713.00,2271.30
+2026-02,A3033,Vikram Banerjee,Billing,1,8,24512.00,3064.00
+2026-02,A3034,Tanvi Rathore,Billing,1,7,11802.00,1686.00
+2026-02,A3035,Dev Kulkarni,Billing,1,13,40929.00,3148.38
+2026-02,A3036,Ritika D'Souza,Returns Desk,1,17,46543.00,2737.82
+2026-02,A3037,Manish Iyer,Returns Desk,1,9,25758.00,2862.00
+2026-02,A3038,Ankit Dhillon,Returns Desk,1,17,45029.00,2648.76
+2026-02,A3039,Reyansh Mishra,Escalations & Warranty,2,2,6718.00,3359.00
+2026-02,A3041,Mohammed Mehta,Escalations & Warranty,2,1,2499.00,2499.00
+2026-02,A3042,Swati Bhatia,Escalations & Warranty,2,1,5949.00,5949.00
+2026-03,A3001,Suresh Kaur,Chat Frontline,1,2,8273.00,4136.50
+2026-03,A3002,Steven Ansari,Chat Frontline,1,2,3004.00,1502.00
+2026-03,A3003,Komal Singh,Chat Frontline,1,5,8856.00,1771.20
+2026-03,A3004,Geeta Dutta,Chat Frontline,1,1,3499.00,3499.00
+2026-03,A3005,Payal Bhatia,Chat Frontline,1,3,8097.00,2699.00
+2026-03,A3006,Varun Bhatt,Chat Frontline,1,4,8992.00,2248.00
+2026-03,A3007,Abhishek Gupta,Chat Frontline,1,2,6199.00,3099.50
+2026-03,A3009,Sukhwinder Singh,Chat Frontline,1,2,5523.00,2761.50
+2026-03,A3010,Tenzin Mathew,Chat Frontline,1,3,8774.00,2924.67
+2026-03,A3011,Rohit Gill,Chat Frontline,1,2,6123.00,3061.50
+2026-03,A3013,Rohit Nair,Chat Frontline,1,2,6698.00,3349.00
+2026-03,A3014,Anjali D'Souza,Chat Frontline,1,3,11706.00,3902.00
+2026-03,A3015,Sameer Jadhav,Chat Frontline,1,2,1325.00,662.50
+2026-03,A3016,Thomas Kumar,Email Frontline,1,6,10545.00,1757.50
+2026-03,A3017,Kabir Singh,Email Frontline,1,1,1299.00,1299.00
+2026-03,A3018,Krishna Bhatt,Email Frontline,1,6,8551.00,1425.17
+2026-03,A3019,Kavya Agarwal,Email Frontline,1,3,5468.00,1822.67
+2026-03,A3020,Aadhya Singh,Email Frontline,1,1,104.00,104.00
+2026-03,A3021,Meera Mathew,Email Frontline,1,1,525.00,525.00
+2026-03,A3024,Amit Deshpande,Voice Frontline,1,2,4623.00,2311.50
+2026-03,A3026,Aadhya Deshpande,Voice Frontline,1,3,6532.00,2177.33
+2026-03,A3027,Priya Agarwal,Logistics,1,2,5098.00,2549.00
+2026-03,A3028,Sameer Kapoor,Logistics,1,2,5998.00,2999.00
+2026-03,A3029,Rajat Mukherjee,Logistics,1,4,17521.00,4380.25
+2026-03,A3030,Aishwarya Trivedi,Logistics,1,14,47456.00,3389.71
+2026-03,A3031,Zaid Desai,Logistics,1,8,18227.00,2278.38
+2026-03,A3032,Sneha Bansal,Billing,1,3,4204.00,1401.33
+2026-03,A3033,Vikram Banerjee,Billing,1,7,19087.00,2726.71
+2026-03,A3034,Tanvi Rathore,Billing,1,5,13035.00,2607.00
+2026-03,A3035,Dev Kulkarni,Billing,1,20,52164.00,2608.20
+2026-03,A3036,Ritika D'Souza,Returns Desk,1,10,18475.00,1847.50
+2026-03,A3037,Manish Iyer,Returns Desk,1,12,41043.00,3420.25
+2026-03,A3038,Ankit Dhillon,Returns Desk,1,13,35253.00,2711.77
+2026-03,A3039,Reyansh Mishra,Escalations & Warranty,2,4,16295.00,4073.75
+2026-03,A3040,Thomas Jadhav,Escalations & Warranty,2,2,4853.00,2426.50
+2026-03,A3041,Mohammed Mehta,Escalations & Warranty,2,1,12348.00,12348.00
+2026-04,A3001,Suresh Kaur,Chat Frontline,1,1,6298.00,6298.00
+2026-04,A3002,Steven Ansari,Chat Frontline,1,1,2799.00,2799.00
+2026-04,A3003,Komal Singh,Chat Frontline,1,2,6648.00,3324.00
+2026-04,A3004,Geeta Dutta,Chat Frontline,1,1,1529.00,1529.00
+2026-04,A3006,Varun Bhatt,Chat Frontline,1,2,2464.00,1232.00
+2026-04,A3007,Abhishek Gupta,Chat Frontline,1,4,10672.00,2668.00
+2026-04,A3008,Meera Malhotra,Chat Frontline,1,1,3149.00,3149.00
+2026-04,A3010,Tenzin Mathew,Chat Frontline,1,1,2499.00,2499.00
+2026-04,A3011,Rohit Gill,Chat Frontline,1,2,9798.00,4899.00
+2026-04,A3012,Lakshmi Srivastava,Chat Frontline,1,2,1650.00,825.00
+2026-04,A3013,Rohit Nair,Chat Frontline,1,1,2499.00,2499.00
+2026-04,A3015,Sameer Jadhav,Chat Frontline,1,3,8247.00,2749.00
+2026-04,A3017,Kabir Singh,Email Frontline,1,2,5298.00,2649.00
+2026-04,A3018,Krishna Bhatt,Email Frontline,1,5,20719.00,4143.80
+2026-04,A3020,Aadhya Singh,Email Frontline,1,2,224.00,112.00
+2026-04,A3021,Meera Mathew,Email Frontline,1,2,4073.00,2036.50
+2026-04,A3023,Ritika Gaikwad,Voice Frontline,1,1,3149.00,3149.00
+2026-04,A3025,Komal Malhotra,Voice Frontline,1,1,3149.00,3149.00
+2026-04,A3026,Aadhya Deshpande,Voice Frontline,1,5,10496.00,2099.20
+2026-04,A3027,Priya Agarwal,Logistics,1,5,15300.00,3060.00
+2026-04,A3028,Sameer Kapoor,Logistics,1,3,8998.00,2999.33
+2026-04,A3029,Rajat Mukherjee,Logistics,1,2,1929.00,964.50
+2026-04,A3030,Aishwarya Trivedi,Logistics,1,10,31332.00,3133.20
+2026-04,A3031,Zaid Desai,Logistics,1,4,10428.00,2607.00
+2026-04,A3032,Sneha Bansal,Billing,1,10,23464.00,2346.40
+2026-04,A3033,Vikram Banerjee,Billing,1,4,13296.00,3324.00
+2026-04,A3034,Tanvi Rathore,Billing,1,8,22688.00,2836.00
+2026-04,A3035,Dev Kulkarni,Billing,1,12,18840.00,1570.00
+2026-04,A3036,Ritika D'Souza,Returns Desk,1,23,63031.00,2740.48
+2026-04,A3037,Manish Iyer,Returns Desk,1,16,41400.00,2587.50
+2026-04,A3038,Ankit Dhillon,Returns Desk,1,13,37927.00,2917.46
+2026-04,A3039,Reyansh Mishra,Escalations & Warranty,2,3,5973.00,1991.00
+2026-04,A3040,Thomas Jadhav,Escalations & Warranty,2,1,1299.00,1299.00
+2026-04,A3041,Mohammed Mehta,Escalations & Warranty,2,1,1000.00,1000.00
+2026-05,A3002,Steven Ansari,Chat Frontline,1,4,6554.00,1638.50
+2026-05,A3003,Komal Singh,Chat Frontline,1,1,2124.00,2124.00
+2026-05,A3004,Geeta Dutta,Chat Frontline,1,2,4849.00,2424.50
+2026-05,A3005,Payal Bhatia,Chat Frontline,1,2,9473.00,4736.50
+2026-05,A3006,Varun Bhatt,Chat Frontline,1,4,6670.00,1667.50
+2026-05,A3007,Abhishek Gupta,Chat Frontline,1,1,5524.00,5524.00
+2026-05,A3008,Meera Malhotra,Chat Frontline,1,1,7998.00,7998.00
+2026-05,A3009,Sukhwinder Singh,Chat Frontline,1,1,6999.00,6999.00
+2026-05,A3010,Tenzin Mathew,Chat Frontline,1,3,13472.00,4490.67
+2026-05,A3011,Rohit Gill,Chat Frontline,1,2,8848.00,4424.00
+2026-05,A3012,Lakshmi Srivastava,Chat Frontline,1,1,6499.00,6499.00
+2026-05,A3013,Rohit Nair,Chat Frontline,1,1,4499.00,4499.00
+2026-05,A3014,Anjali D'Souza,Chat Frontline,1,1,3499.00,3499.00
+2026-05,A3015,Sameer Jadhav,Chat Frontline,1,2,10198.00,5099.00
+2026-05,A3016,Thomas Kumar,Email Frontline,1,2,9972.00,4986.00
+2026-05,A3017,Kabir Singh,Email Frontline,1,2,4248.00,2124.00
+2026-05,A3018,Krishna Bhatt,Email Frontline,1,4,6925.00,1731.25
+2026-05,A3019,Kavya Agarwal,Email Frontline,1,1,2499.00,2499.00
+2026-05,A3020,Aadhya Singh,Email Frontline,1,2,4200.00,2100.00
+2026-05,A3023,Ritika Gaikwad,Voice Frontline,1,1,1439.00,1439.00
+2026-05,A3024,Amit Deshpande,Voice Frontline,1,1,3324.00,3324.00
+2026-05,A3026,Aadhya Deshpande,Voice Frontline,1,3,17147.00,5715.67
+2026-05,A3027,Priya Agarwal,Logistics,1,3,11197.00,3732.33
+2026-05,A3028,Sameer Kapoor,Logistics,1,4,5718.00,1429.50
+2026-05,A3030,Aishwarya Trivedi,Logistics,1,14,48883.00,3491.64
+2026-05,A3031,Zaid Desai,Logistics,1,1,6174.00,6174.00
+2026-05,A3032,Sneha Bansal,Billing,1,7,16990.00,2427.14
+2026-05,A3033,Vikram Banerjee,Billing,1,5,12846.00,2569.20
+2026-05,A3034,Tanvi Rathore,Billing,1,10,17261.00,1726.10
+2026-05,A3035,Dev Kulkarni,Billing,1,12,30681.00,2556.75
+2026-05,A3036,Ritika D'Souza,Returns Desk,1,23,55613.00,2417.96
+2026-05,A3037,Manish Iyer,Returns Desk,1,16,34783.00,2173.94
+2026-05,A3038,Ankit Dhillon,Returns Desk,1,5,14870.00,2974.00
+2026-05,A3039,Reyansh Mishra,Escalations & Warranty,2,4,15495.00,3873.75
+2026-05,A3040,Thomas Jadhav,Escalations & Warranty,2,1,2499.00,2499.00
+2026-05,A3043,Nikhil Gupta,Escalations & Warranty,2,1,1169.00,1169.00
+2026-05,A3044,Arjun Kumar,Escalations & Warranty,2,1,5598.00,5598.00
+2026-06,A3001,Suresh Kaur,Chat Frontline,1,5,15315.00,3063.00
+2026-06,A3002,Steven Ansari,Chat Frontline,1,2,9323.00,4661.50
+2026-06,A3003,Komal Singh,Chat Frontline,1,6,7555.00,1259.17
+2026-06,A3004,Geeta Dutta,Chat Frontline,1,1,700.00,700.00
+2026-06,A3005,Payal Bhatia,Chat Frontline,1,4,11882.00,2970.50
+2026-06,A3006,Varun Bhatt,Chat Frontline,1,4,7427.00,1856.75
+2026-06,A3008,Meera Malhotra,Chat Frontline,1,3,8447.00,2815.67
+2026-06,A3009,Sukhwinder Singh,Chat Frontline,1,4,11728.00,2932.00
+2026-06,A3010,Tenzin Mathew,Chat Frontline,1,2,8528.00,4264.00
+2026-06,A3011,Rohit Gill,Chat Frontline,1,1,2974.00,2974.00
+2026-06,A3012,Lakshmi Srivastava,Chat Frontline,1,3,10597.00,3532.33
+2026-06,A3013,Rohit Nair,Chat Frontline,1,2,8323.00,4161.50
+2026-06,A3015,Sameer Jadhav,Chat Frontline,1,3,9797.00,3265.67
+2026-06,A3016,Thomas Kumar,Email Frontline,1,2,1250.00,625.00
+2026-06,A3017,Kabir Singh,Email Frontline,1,2,2338.00,1169.00
+2026-06,A3018,Krishna Bhatt,Email Frontline,1,6,19294.00,3215.67
+2026-06,A3021,Meera Mathew,Email Frontline,1,3,10278.00,3426.00
+2026-06,A3022,Daniel Arora,Email Frontline,1,2,1596.00,798.00
+2026-06,A3024,Amit Deshpande,Voice Frontline,1,3,11122.00,3707.33
+2026-06,A3025,Komal Malhotra,Voice Frontline,1,1,332.00,332.00
+2026-06,A3026,Aadhya Deshpande,Voice Frontline,1,3,7997.00,2665.67
+2026-06,A3027,Priya Agarwal,Logistics,1,2,9448.00,4724.00
+2026-06,A3028,Sameer Kapoor,Logistics,1,4,21211.00,5302.75
+2026-06,A3029,Rajat Mukherjee,Logistics,1,4,14496.00,3624.00
+2026-06,A3030,Aishwarya Trivedi,Logistics,1,14,25868.00,1847.71
+2026-06,A3031,Zaid Desai,Logistics,1,4,6843.00,1710.75
+2026-06,A3032,Sneha Bansal,Billing,1,9,17782.00,1975.78
+2026-06,A3033,Vikram Banerjee,Billing,1,6,15621.00,2603.50
+2026-06,A3034,Tanvi Rathore,Billing,1,7,19933.00,2847.57
+2026-06,A3035,Dev Kulkarni,Billing,1,15,32274.00,2151.60
+2026-06,A3036,Ritika D'Souza,Returns Desk,1,14,40595.00,2899.64
+2026-06,A3037,Manish Iyer,Returns Desk,1,15,40343.00,2689.53
+2026-06,A3038,Ankit Dhillon,Returns Desk,1,9,18599.00,2066.56
+2026-06,A3039,Reyansh Mishra,Escalations & Warranty,2,3,16497.00,5499.00
+2026-06,A3041,Mohammed Mehta,Escalations & Warranty,2,1,2799.00,2799.00
+2026-06,A3044,Arjun Kumar,Escalations & Warranty,2,1,1709.00,1709.00

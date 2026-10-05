@@ -1,0 +1,17 @@
+STEP 4: DATA ENRICHMENT & POLICY VALIDATION SUMMARY REPORT
+============================================================
+
+1. RECORD COUNTS & RELATIONAL JOINS:
+   - Total Clean Tickets Enriched: 11600
+   - Exact Order ID Join Matches: 7701 (66.39%)
+   - Fallback (customer_id + product_sku) Matches: 3899 (33.61%)
+   - Unmatched Orders: 0 (0.00%)
+   - Product SKU Join Rate: 100.00% (14 SKUs matched)
+   - Customer ID Join Rate: 100.00% (9,500 customers matched)
+   - Agent ID Join Rate: 100.00% (44 agents matched)
+
+2. POLICY VIOLATIONS & DATA QUALITY AUDIT:
+   - Dual Benefit Cases (Refund + Replacement issued for same ticket): 166
+   - Goodwill Refunds Exceeding Rs 500 Cap (Policy §5 limit without TL approval): 879
+   - Refund Amount Exceeding Order Value: 3
+   - Tier 1 Unauthorized Warranty Replacements (Policy §6 requires Tier 2 approval): 65

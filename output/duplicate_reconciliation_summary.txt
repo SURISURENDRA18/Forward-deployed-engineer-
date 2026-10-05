@@ -1,0 +1,31 @@
+DUPLICATE AND MIGRATION RECONCILIATION SUMMARY REPORT
+=====================================================
+
+1. NATURE OF THE 638 DUPLICATES:
+   - The 638 duplicate ticket_id values in tickets.csv represent legacy tickets that were re-imported during the Freshdesk-to-Helpdesk migration reconciliation (as noted in email-thread.txt by IT Admin Sameer Qureshi and support-policy.pdf §9).
+   - Every single duplicate group consists of exactly 2 rows: one row with source_system = 'helpdesk' and one row with source_system = 'legacy_fd'.
+   - Total duplicate ticket_ids: 638
+   - Total duplicate rows: 1,276 (638 helpdesk rows + 638 legacy_fd rows)
+
+2. DUPLICATE REPRESENTATION & FIELD COMPARISON:
+   - Both rows represent the exact same underlying support ticket.
+   - Field-by-field comparison across all 18 metadata fields (created_at, first_response_at, resolved_at, status, channel, customer_id, order_id, product_sku, category, priority, assigned_team, agent_id, transfers, csat_score, refund_reason_code, replacement_issued, customer_message, agent_notes) confirmed 0 field mismatches across all 638 duplicate pairs.
+
+3. REFUND VALUE RECONCILIATION (/100 CONVERSION):
+   - Number of duplicate pairs with a refund present: 125
+   - Number of duplicate pairs with no refund in either copy: 513
+   - Number where refund exists ONLY in helpdesk: 0
+   - Number where refund exists ONLY in legacy_fd: 0
+   - Total raw refund amount in duplicate helpdesk rows: Rs. 361,011.00
+   - Total raw refund amount in duplicate legacy_fd rows: Rs. 36,101,100.00 (stored in paise / scaled x100)
+   - Total converted legacy_fd refund amount (legacy / 100): Rs. 361,011.00
+   - Number of duplicate pairs where refund values match after /100 conversion: 125 (100% match)
+   - Number of duplicate pairs where refund values differ after /100 conversion: 0 (0% mismatch)
+
+4. MATERIAL CONFLICTS:
+   - There are ZERO material conflicts or field discrepancies between helpdesk and legacy_fd copies.
+
+5. RECOMMENDED RULE FOR CREATING THE CLEAN REFUND DATASET:
+   - Rule 1 (Deduplication): For any ticket_id present in both 'helpdesk' and 'legacy_fd', retain the 'helpdesk' row as the authoritative record and drop the duplicate 'legacy_fd' row.
+   - Rule 2 (Legacy Currency Conversion): For tickets present ONLY in 'legacy_fd' (non-duplicate legacy tickets), retain the row and convert the raw refund_amount_inr by dividing by 100 (converting from paise to INR).
+   - Rule 3 (Helpdesk Currency): Retain 'helpdesk' refund_amount_inr values as-is (already in INR).

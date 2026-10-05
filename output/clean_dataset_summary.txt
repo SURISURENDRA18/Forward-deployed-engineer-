@@ -1,0 +1,30 @@
+CLEAN DATASET & LEGACY NORMALIZATION SUMMARY REPORT
+===================================================
+
+1. DATASET COUNTS & AUDIT SUMMARY:
+   - Original Source Row Count (data/tickets.csv): 12238
+   - Clean Dataset Retained Row Count: 11600
+   - Excluded Duplicate Row Count: 638
+   - Unique Ticket ID Count: 11600
+   - Retained Helpdesk Records: 8364
+   - Retained Legacy_FD Records: 3236
+   - Refund-Bearing Records (Normalized Refund Present): 2340
+   - Missing Refund Records (Null Refund Amount): 9260
+   - Legacy Normalization Record Count (PAISE -> INR /100): 650
+   - Quality-Flagged Record Count: 8410
+
+2. VALIDATION CHECKS & STATUS:
+   - Row Count Validation: PASS (Exactly 11,600 rows in clean_tickets.csv)
+   - Unique Ticket ID Validation: PASS (11,600 unique ticket_ids, no duplicates)
+   - Deduplication Audit Validation: PASS (All 638 duplicate legacy_fd rows accounted for as EXCLUDED)
+   - Source Traceability Validation: PASS (All 11,600 retained rows map to original 1-indexed row numbers)
+   - Helpdesk Amount Integrity: PASS (All 8,364 retained helpdesk refund values preserved unchanged)
+   - Legacy Amount Normalization Integrity: PASS (All 650 legacy refund values divided by 100 exactly)
+   - Null Amount Preservation: PASS (All 9,260 missing refund values preserved as null/empty)
+   - Source File Safety: PASS (data/tickets.csv untouched)
+
+3. UNRESOLVED QUALITY ISSUES PRESERVED IN CLEAN DATASET:
+   - 4,127 records with missing order_id (fallback join required: customer_id + product_sku)
+   - 174 records with dual refund and replacement conflict (policy §5 violation)
+   - 6,729 records with missing CSAT score
+   - 1,041 refund records tagged with default dropdown code GW-OTHER
